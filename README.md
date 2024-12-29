@@ -26,7 +26,7 @@ This project has severely improved my skills in working with version control (gi
 
 ## Star Project
 This is a new project and intends on being a fast paced 2D top-down roguelite, with elemental abilities (inspired in the likes of Avatar: The last airbender), fully built in Godot.
-For this project I've so far developed player controls for movement and aiming, for controller and keyboard & mouse, which automatically switch depending on the input, combat mechanics, player HUD and skill tree UI.
+For this project I've so far developed player controls for movement and aiming, for controller and keyboard & mouse, which automatically switch depending on the input, combat mechanics, player HUD and skill tree UI. I'm also a designer for this game.
 
 This project does not **yet** have a publicly available page.
 
@@ -43,9 +43,8 @@ This was my first dive into a full development of a bigger game in a short time 
 **Repository**: https://github.com/fallenatlas/immortal_journey
 
 ## CGJ
-GJ - did all the work, helped me understand the 3d space, vector and matrix operations and quaternions, also had a challenge with coding the shaders and the perlin noise, and a hierachichal tree like seen in game engines
-
 For this course I developed a small "engine like" program. It was fully developed in C++ and OpenGL by me and includes: realistic lighting (blinn-phong model), procedurally generated textures (3D) of marble and wood using perling noise, orbital camera, a hierachical scene graph like seen in game engines, mouse picking, movement of objects with mouse in multiple axis (including rotation) like seen in engines too, and serialization of the scene in JSON.
+
 This project helped me get better with C++ (and C), and better understand 3D space, vector and matrix operations and quaternions. It was also a good introduction to programming shaders.
 
 **Repository**: https://github.com/fallenatlas/IndividualProject.CGJ_23-24
@@ -61,11 +60,14 @@ P3D - did the entire algorithm, in both cpu and gpu versions
 Also worked on the BVH tree to optimize collision detection
 
 ## DDJ
-
+This project didn't go so well. Although we all had some experience with Unity, we didn't account for the little time that we had, as such the game has a . For this game I worked on the player movement, and interaction system.
+**itch.io page**: 
 
 ## DIIC and CCU
 detail work and show prototypes
 In CCU
+
+Worked with AGILE methodologies, and something something (iterative) development.
 
 ## IAJ
 detail work and show prototypes
