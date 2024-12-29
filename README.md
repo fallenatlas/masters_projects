@@ -9,7 +9,7 @@ I'm a very creative person at heart. I've been exposed to things like games and 
 
 I love working on games! I've been working on some personal projects and exploring the gameplay side of games more than anything. I particularly strive to give the best game feel and mechanics to players!
 
-I'm a calm, laid back person, who turns into an energy ball that easily spreads when I'm excited about what I'm doing. I'm also very ambitious and hard working, constantly looking to learn something new and ways to improve myself and my craft.
+I'm a calm, laid back person, who turns into an energy ball that easily spreads when I'm excited about what I'm doing. I'm also very ambitious and hard working, constantly looking to learn something new and ways to improve myself and my craft. I also like to help others in any way I can.
 
 Since 2022 I have been part of GameDev Técnico, a student association focused on game development. Here I have developed a game engine and worked on multiple games with multidisciplinary teams. My experience regarding game development is mainly focused on programming but I also do some design. I have done games both in 2D and 3D, mainly using Godot as a game engine, and C++ is my most used language.
 
