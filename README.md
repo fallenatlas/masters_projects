@@ -23,7 +23,7 @@ When the opportunity came, I started the physics plugin (each funcionality of th
 
 Recently, with the expansion of the project, and restructuring into teams, I've been guiding the development of the physics and collisions for the engine. Currently, the team is composed of three members, for whom I manage and review the work. I also represent the team in general meeting, with the lead of the project, and I'm the contact point for any issues regarding these areas of the engine. The development is in full force with a cycle of new releases every 3 months approximately.
 
-This project has severely improved my skills in working with version control (git), leading, teamwork, and research, beyond being a great opportunity to improve my skills in C++.
+This project has deeply improved my skills in working with version control (git), leading, teamwork, and research, beyond being a great opportunity to improve my knowledge of C++.
 
 **Cubos repository**: https://github.com/GameDevTecnico/cubos
 
